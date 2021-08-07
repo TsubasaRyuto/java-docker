@@ -8,7 +8,7 @@ Javaを学習する際に簡単に環境構築ができるようにする
 ### 前提
 docker-　composeがインストールされていること
 
-### Start
+### コンテナ立ち上げとプログラム実行
 1. docker-compose build
 > docker imageをビルド
 
@@ -23,3 +23,6 @@ docker-　composeがインストールされていること
 
 5. java xxx
 > プログラム実行
+
+### プログラムの置き場所
+`src/` ディレクトリ
